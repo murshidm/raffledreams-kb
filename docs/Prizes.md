@@ -14,6 +14,6 @@ Before creating a raffle, you'll need to add prize details, including the name, 
 
 ## Edit Prize
 
-### View Prizes
+## View Prizes
 
 ## Adding a Prize to a Raffle
