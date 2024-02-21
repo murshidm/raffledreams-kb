@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Guide](README.md)
-  * [Prizes](docs/Page1.md)
+  * [Prizes](readme/prizes.md)
