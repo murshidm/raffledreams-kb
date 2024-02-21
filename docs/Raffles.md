@@ -1,8 +1,2 @@
 # Raffles
-
-
-## Create a Raffle
-
-## Edit Raffle
-
-## View Raffle
+This is a test
